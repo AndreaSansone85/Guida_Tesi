@@ -14,6 +14,9 @@ La mia personale idea è che l'AI si possa usare per fare un _outline_ del lavor
 
 Facciamo un esempio: potrei pensare di fare una tesi sugli effetti cardiocircolatori dell'uso di peperoncino (se ve lo state chiedendo: _sì, ci sono articoli pubblicati sul tema_, ad esempio [questo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10078540/)). Facendo richiesta a uno dei tanti LLM, esce una cosa simile a questa:  
 
+<img width="546" height="501" alt="ab41b7ef-07ea-493b-a41b-6133f90c0db9" src="https://github.com/user-attachments/assets/89e6a14f-ee43-4517-b99e-b7cccd3dfdfc" />
+
+
 Benissimo! Ci sono un po di cose cui personalmente non avrei pensato (ma del resto non sono un grande esperto di peperoncini, neanche in cucina), come ad esempio i possibili effetti positivi sulla termogenesi (cioè sulla sensazione di calore) come meccanismo di prevenzione cardiovascolare.
 
 Ma ci sono anche tante cose che mancano: ad esempio, nell'outline non si parla del fatto che alcuni tipi di dieta hanno un maggior consumo di peperoncino, fra cui la dieta mediterranea, che è considerata una vera e propria terapia per la salute cardiovascolare. O ancora, non si parla del fatto che non tutti i peperoncini hanno lo stesso grado di piccantezza (in termini tecnici, hanno diverse unità Scoville). O ancora, non si parla delle possibili interazioni con altre abitudini: ad esempio, chi mangia più peperoncino beve anche più alcolici o fuma di più? (_se ve lo state chiedendo, la risposta sembra essere sì_ - [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8404681/)). E poi non si parla dei rischi derivanti dal consumo di peperoncini particolarmente piccanti, quindi devo ancora consideare che c'è il rischio di sviluppare (ad esempio) una gastrite per cui dovrò assumere farmaci che, guarda un po', potrebbero creare effetti negativi su alcuni parametri cardiovascolari...
