@@ -17,3 +17,6 @@ E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da ai
 1. [Posso usare l'AI per aiutarmi a scrivere la tesi?](/Pages/Usare_AI.md)
 1. [Tipi di tesi](/pages/Tipi_di_tesi.md)
 1. [Di che software avrò bisogno?](/Pages/Software.md)
+
+[Example.md](example_page.md)
+[exam](example_page)
