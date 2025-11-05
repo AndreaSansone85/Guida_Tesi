@@ -2,7 +2,6 @@
 title: Introduzione
 ---
 
-# Introduzione
 Ciao! Se stai leggendo questa guida, verosimilmente sei uno dei miei studenti o delle mie studentesse, o qualcuno dei tuoi colleghi ti ha mandato questo link, o ancora l'hai trovato perché l'ho spammato io stesso da qualche parte.
 
 Mi chiamo Andrea e sono un docente universitario: mi occupo prevalentemente di endocrinologia e di sessuologia medica, e insegno all'Università di Roma Tor Vergata.  
