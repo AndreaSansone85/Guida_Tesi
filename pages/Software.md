@@ -14,4 +14,4 @@ Questa è una lista di software potenzialmente utili. Potete campare benissimo e
 Un software di scrittura - preferibilmente Microsoft Word o OpenOffice. Se vi trovate bene con Pages per OSX/iOS, o se avete voglia di studiarvi LaTeX, o se lavorate (come sto facendo io in questo momento!) in Markdown non c'è problema, ma generalmente - siamo onesti - il 99% delle persone usa Word.
 
 ## Ok, ho fatto, e ora?
-Se vuoi, continuiamo a questo punto con una delle domande più frequenti di questo periodo: posso usare l'AI per scrivere la tesi di laurea? [Scopriamolo insieme!](Usare_AI)
+Bene, a questo punto, siamo più o meno pronti per cominciare. È il momento di andare a studiare un po' di bibliografia! [Proseguiamo qui](Le_fonti).
