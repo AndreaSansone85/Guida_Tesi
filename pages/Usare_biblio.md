@@ -51,4 +51,6 @@ Con una discreta probabilità, se ora prendi il libro del primo esame che hai so
 
 Quindi prendere appunti durante la lettura di un paper può essere inutile, se la tua opera di "appunti" finisce lì. Chiuso il paper 1, inizi il paper 2, e quando hai finito anche il paper 2 e inizi il 3 ti sei già dimenticato qualcosa del paper 1. Quanti degli appunti che hai preso fino a ora ti sono rimasti "vivi" in memoria? Io, personalmente, credo di poterli contare sulle dita della mano di un falegname distratto.
 
-Qui subentra l'altra parte dei software di cui abbiamo parlato prima. Software come Obsidian, Notion, Bear (ma anche il "banale" Note di Apple) consentono di prendere appunti in maniera più strutturata, aiutandoti a creare una sorta di collegamento fra le cose che studi. 
+Qui subentra l'altra parte dei software di cui abbiamo parlato prima. Software come Obsidian, Notion, Bear (ma anche il "banale" Note di Apple) consentono di prendere appunti in maniera più strutturata, aiutandoti a creare una sorta di collegamento fra le cose che studi. Non sono programmi che sostituiscono il tuo cervello o la tua capacità di memorizzazione o di apprendimento, ma ti aiutano a studiare meglio e in maniera più "solida". Sicuramente ci metterai di più rispetto a studiare in altro modo, ma perché non provare?
+
+Proseguiamo oltre, e passiamo appunto a come gestire i nostri appunti di Zotero in maniera più "organica".
