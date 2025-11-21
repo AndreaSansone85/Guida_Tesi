@@ -28,6 +28,9 @@ Obsidian è sostanzialmente un editor di testo. In pratica come Word, Pages, que
 A questo punto abbiamo due possibilità. Una è un po' più semplice, l'altra è un po' più da smanettoni. Prometto che però non è impossibile da fare e che se volete fermarvi alla parte "semplice" non c'è nessun problema. Il sistema "da smanettoni" aggiunge una cosa in più che non è assolutamente necessaria e che serve solo a "automatizzare" una cosa.
 
 ### Il sistema semplice
-Avete letto un articolo. Avete evidenziato le parti interessanti e ci avete riflettuto un po'. È il caso di rendere utile questo lavoro! Apriamo Obsidian, creiamo una cartella che chiameremo (ad esempio) _source-notes_ e inseriamo una nota in cui scriviamo i dati dell'articolo. Come titolo della nota possiamo mettere il titolo dell'articolo che abbiamo letto, o meglio ancora (ad esempio) le prime parole del titolo e l'anno, per facilitarci a riconoscerla.
+Avete letto un articolo. Avete evidenziato le parti interessanti e ci avete riflettuto un po'. È il caso di rendere utile questo lavoro!  
+Apriamo Obsidian, creiamo una cartella che chiameremo (ad esempio) _source-notes_ e inseriamo una nota in cui scriviamo i dati dell'articolo. Come titolo della nota possiamo mettere il titolo dell'articolo che abbiamo letto, o meglio ancora qualcosa di più identificativo, ad esempio il cognome del primo autore, le prime parole del titolo e l'anno, per facilitarci a riconoscerla. In questo caso ho preso per fare un esempio un articolo che avevamo menzionato poco fa.
+{% include image.html file="ObsidianGIF1.gif" alt="" max-width="3em" %}
+
 
 ## Sistemiamo Zotero e Obsidian
