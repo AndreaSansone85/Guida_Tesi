@@ -20,4 +20,4 @@ E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da ai
 5. [Le fonti bibliografiche](Le_fonti)
 6. [Gestire la bibliografia](Usare_biblio)
 7. [Usare gli appunti](Second_Brain)
-8. [Da dove inizio a scrivere](Iniziare_a_scrivere)
+8. [Da dove inizio a scrivere](IniziareAScrivere)
