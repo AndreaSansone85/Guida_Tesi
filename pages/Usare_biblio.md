@@ -44,7 +44,10 @@ Nell'immagine qui sotto vi faccio un esempio: cliccate sull'evidenziatore (segna
 
 {% include image.html file="Zotero4.png" alt="Zotero" max-width="10" %}
 
-Vi starete chiedendo: ok, ma perché tutto questo sbatti? A che mi serve appuntarmi tutto quello che leggo?
+Vi starete chiedendo: ok, ma perché tutto questo sbatti? Perché dovrei usare Zotero? A che mi serve appuntarmi tutto quello che leggo?
+
+## Aggiungere la bibliografia alla tesi tramite Zotero
+La ragine principale per usare Zotero, per il 99% degli utenti, è che rende incredibilmente semplice fare la bibliografia di un qualsiasi lavoro, aggiornarla, e modificarla secondo le necessità. In piena onestà: ho fatto qualche mese fa un video di 5 minuti in cui lo spiego a schermo. [Lo trovi qui su youtube](https://www.youtube.com/watch?feature=shared&v=mNnfMdsNtY4), e ti è più facile vederlo lì che tramite un'immagine. Il concetto è semplice: Zotero "parla" con Word (e con altri software di scrittura) e ti consente di inserire direttamente le citazioni ai paper mentre scrivi. Non finirò mai di dirlo: la bibliografia va scritta *durante* la scrittura della tesi, non dopo!
 
 ## Rendere utili gli appunti
 Con una discreta probabilità, se ora prendi il libro del primo esame che hai sostenuto nella prima sessione del tuo primo anno, avrai _qualche_ difficoltà a ricordarti esattamente quello che avevi studiato. Il mio primo esame è stato quello di fisica medica: alcune cose le ricordo ancora (PV = nRT, per dirne una) ma il 99% dei contenuti ultraspecialistici di quella materia - quelli che sostanzialmente non tornano utili negli studi successivi - sono finiti nel dimenticatoio. È normale: il nostro cervello non può immagazzinare _ogni_ informazione che riceve, deve fare un filtro, e quindi alcune cose restano in memoria per un po' ma se non le "risvegliamo" tendiamo a dimenticarle. Alcune cose le dimentichiamo più facilmente perché sono cose che facciamo autonomamente e/o sovrappensiero, altre le dimentichiamo con maggior difficoltà perché le associamo a qualche ricordo significativo (flashbulb memory, dicono quelli bravi; evento canonico, dicono i fan Marvel).
