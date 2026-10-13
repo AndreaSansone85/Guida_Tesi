@@ -16,7 +16,7 @@ Prima di andare nel dettaglio, ci tengo a spiegare due cose che potrebbero sembr
 - Spesso si pensa che le tesi compilative siano **più facili**, ma non sempre questo è vero. Allo stesso modo, non è sempre vero che le tesi compilative siano "meno valide" di quelle sperimentali. Sono approcci diversi alla ricerca, e la ricerca stessa non può andare avanti senza un buon mix di queste due.
 - Spesso si pensa che le tesi compilative siano **meno importanti**, ma non sempre questo è vero. Questa idea deriva dal fatto che in alcune università (non in tutte!) le tesi sperimentali sono valutate di più, e quindi c'è l'idea che la tesi compilativa sia "di serie B", per capirci.
 
- ## Tesi sperimentali
+## Tesi sperimentali
 Parliamo di **tesi sperimentale** quando ci sono dei dati (clinici, ma non solo) che diventano oggetto di un esperimento. I gatti che mangiano la pappa di una marca X crescono più di quelli che mangiano la pappa della marca Y? Che differenze ci sono fra maschi e femmine per quanto riguarda l'attenzione ai meme su instagram? C'è differenza fra gli effetti sulla pressione di un peperoncino calabrese o di un Carolina Reaper? (sì, i peperoncini li abbiamo già usati come esempio, lo so!). Questi sono esempi, molto grossolani, di studi sperimentali.
 
 Questo tipo di ricerche richiede alcune attenzioni.  
