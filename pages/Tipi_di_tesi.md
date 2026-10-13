@@ -2,19 +2,28 @@
 title:  I tipi di tesi
 ---
 
-Generalmente, quando parliamo di tipi di tesi, facciamo riferimento a quattri tipologie diverse di lavoro scientifico. Generalmente parliamo di:
+Generalmente, quando parliamo di tipi di tesi, facciamo riferimento a quattro tipologie diverse di lavoro scientifico. Generalmente parliamo di:
 - tesi compilative
 - revisioni sistematiche
 - meta-analisi
 - tesi sperimentali
 
-Andiamole a vedere nel dettaglio, partendo dai due estremi opposti per poi discutere delle "vie di mezzo".
+Andiamole a vedere nel dettaglio, partendo dai due estremi opposti per poi discutere delle "vie di mezzo". Ma prima, due parole sulla struttura generale di una tesi di laurea.
+
+## Struttura generale di una tesi di laurea
+Le tesi, generalmente, hanno una struttura sostanzialmente sovrapponibile a quella di un articolo scientifico. Una tesi compilativa è una review, una tesi sperimentale uno studio originale, una meta-analisi e una revisione sistematica... sono meta-analisi o revisioni sistematiche (_badum-tssh_). Che significa questo in breve? Significa che **la tua tesi deve sostanzialmente essere sovrapponibile a uno di questi studi come stile**. Domande come "Ma devo scrivere l'abstract?", "ma l'abstract e l'introduzione sono la stessa cosa?", "posso fare solo la discussione senza introduzione e conclusioni?" sono sostanzialmente la prova che la precedente frase non è arrivata a destinazione. Quindi cerchiamo di spiegare meglio, così fughiamo ogni dubbio.
+La prima parte della tesi è l'abstract, che ironicamente è _l'ultima_ cosa che dovresti scrivere. L'abstract è il "riassunto" di tutta la tua tesi in poche parole (diciamo 250 in media). Quindi deve riassumere tutte le parti che compongono la tesi - e sottolineo **tutte**. L'abstract non è l'introduzione: deve consentire a una persona frettolosa di leggere 250 parole e sapere, per somme linee, di cosa tratta tutta la tua tesi.
+L'introduzione è quella che apre il tuo lavoro, in cui, guarda un po', _introduci_ il tema. Generalmente non deve essere lunghissima, e serve per l'appunto a dare un contesto al lavoro successivo.
+La parte centrale della tesi cambia in base al tipo di lavoro. Ne parliamo nel dettaglio qui sotto.
+La parte finale della tesi è quella delle conclusioni, in cui (appunto) tiri le somme del lavoro, elenchi le cose importanti che sono emerse e generalmente elenchi le aree "deboli" (le cosiddette limitazioni) della tua tesi. Ci sono sempre, ed è giusto che sia così. Nessun lavoro è perfetto: anche i lavori scientifici pubblicati su riviste molto importanti sono spesso pieni di limitazioni. Popolazioni eccessivamente selezionate, metodiche di ricerca scarsamente replicabili, disegni prospettici di durata limitata nel tempo - gli autori sanno riconoscere queste limitazioni ed è loro compito segnalarle. Anche nella tua tesi ci sarà qualcosa che troverai perfettibile, e vale la pena segnalarlo per correttezza.
 
 ## Tesi compilative
 In poche parole, una **tesi compilativa** è un lavoro in cui si studia la letteratura di un determinato argomento, si estrapolano i principali concetti e dopodiché vengono rielaborati. La rielaborazione non consiste nel ripetere gli stessi argomenti, ma nel vederli in un'altra ottica, spesso facendo connessioni fra concetti diversi e "amalgamandoli". Se la caliamo nel panorama delle pubblicazioni scientifiche, una tesi compilativa è una **revisione narrativa della letteratura**.  
 Prima di andare nel dettaglio, ci tengo a spiegare due cose che potrebbero sembrare banali:
 - Spesso si pensa che le tesi compilative siano **più facili**, ma non sempre questo è vero. Allo stesso modo, non è sempre vero che le tesi compilative siano "meno valide" di quelle sperimentali. Sono approcci diversi alla ricerca, e la ricerca stessa non può andare avanti senza un buon mix di queste due.
 - Spesso si pensa che le tesi compilative siano **meno importanti**, ma non sempre questo è vero. Questa idea deriva dal fatto che in alcune università (non in tutte!) le tesi sperimentali sono valutate di più, e quindi c'è l'idea che la tesi compilativa sia "di serie B", per capirci.
+{% include callout.html type="important" content="Le tesi compilative generalmente hanno abstract, introduzione, un numero variabile di capitoli di approfondimento (2-3 capitoli, talvolta uno solo, talvolta 4 o più), e conclusioni." %}
+
 
 ## Tesi sperimentali
 Parliamo di **tesi sperimentale** quando ci sono dei dati (clinici, ma non solo) che diventano oggetto di un esperimento. I gatti che mangiano la pappa di una marca X crescono più di quelli che mangiano la pappa della marca Y? Che differenze ci sono fra maschi e femmine per quanto riguarda l'attenzione ai meme su instagram? C'è differenza fra gli effetti sulla pressione di un peperoncino calabrese o di un Carolina Reaper? (sì, i peperoncini li abbiamo già usati come esempio, lo so!). Questi sono esempi, molto grossolani, di studi sperimentali.
@@ -25,6 +34,7 @@ Questo tipo di ricerche richiede alcune attenzioni.
 3. Bene, ipotizziamo di aver fatto un bellissimo disegno di studio, di aver avuto in tempo record l'approvazione del Comitato Etico... e ora che facciamo? Ecco, ora bisogna reclutare i partecipanti allo studio, che è una cosa che potrebbe essere facile da fare (immaginate un questionario online) o leggermente più complessa (come lo studio dei peperoncini di poco fa). Non è proprio bello iniziare uno studio che richiede (per dire) 100 partecipanti e ritrovarsi alla data di consegna della tesi con 10 persone in tutto.
 4. Una volta che avete raccolto tutti i dati dei vostri partecipanti, dovete (voi, o chi per voi) fare l'analisi statistica dei vostri risultati. Molte persone hanno paura della statistica, perché effettivamente è un argomento non particolarmente intuitivo, e spesso i docenti dei corsi di laurea sanno che la maggior parte delle persone non conserveranno molti ricordi se non media, mediana e deviazione standard. Però in realtà non è impossibile fare statistica anche da soli: i software di analisi statistica, anche quelli gratuiti, sono oggetto di innumerevoli tutorial, e ci sono anche decine di siti che organizzano corsi gratuiti online per imparare a smanettare un po' coi dati.
 5. Un'ultima osservazione. Uno studio sperimentale prevede che comunque abbiate studiato un po' la letteratura sull'argomento perché, oltre ai risultati, dovrete scrivere anche introduzione e discussione. E chiaramente, per fare queste due cose dovreste avere qualche conoscenza del tema, non vi pare?
+{% include callout.html type="important" content="Le tesi sperimentali generalmente hanno abstract, introduzione, una sezione di _materiali e metodi_, una sezione di risultati delle analisi statistiche, una sezione di discussione, e alla fine le conclusioni." %}
 
 ## Revisioni sistematiche
 Prendete un determinato argomento, magari non una cosa troppo "ampia", e cercate su un motore di ricerca idoneo gli articoli sul tema. Ad esempio, immaginate che vogliamo fare una tesi sugli effetti sulla pressione arteriosa della capsaicina (il principio attivo che determina la piccantezza dei peperoncini). Ho appena fatto una ricerca su PubMed e ho trovato circa 350 risultati. La revisione narrativa consiste nel leggerne alcuni (non c'è un numero corretto), mentre la revisione sistematica consiste nel leggerli _tutti_.  
@@ -35,8 +45,9 @@ Capiamoci: la revisione sistematica è, in realtà, un lavoro non troppo diverso
 - in una revisione sistematica il grosso del lavoro è la selezione dei paper idonei, mentre nella revisione narrativa il grosso del lavoro è la lettura di un numero di paper che sia considerato idoneo per discutere di un dato argomento.
 
 Da un punto di vista di pubblicazione scientifica, le revisioni sistematiche sono generalmente preferibili alle narrative, perché hanno un maggior rigore scientifico.
+{% include callout.html type="important" content="Le revisioni sistematiche generalmente hanno abstract, introduzione, una sezione di _materiali e metodi_ in cui si definiscono i criteri di selezione degli articoli, una sezione di risultati della ricerca bibliografica, una sezione di discussione, e alla fine le conclusioni." %}
 
 ## Meta-analisi
 Sostanzialmente parliamo di meta-analisi quando seguiamo lo stesso approccio descritto per le revisioni sistematiche, ma invece di fermarci alla revisione dei contenuti "testuali" facciamo un passo in più e effettuiamo un'analisi statistica che serve a comparare i risultati "numerici" dei vari studi inclusi. Le meta-analisi sono considerate studi molto "robusti", perché mettendo insieme i dati di più casistiche e di più popolazioni arrivano ad escludere (o quantomeno a limitare) i fattori di confondimento.  
 Chiaramente c'è un aspetto da non escludere: si tratta di studi in cui la complessità del lavoro di revisione della letteratura (che comunque non è indifferente) si affianca a un lavoro di analisi statistica di media comlpessità. Se vi trovate a fare meta-analisi per la tesi, verosimilmente avrete il supporto di uno statistico (o quantomeno di qualcuno che ne capisce un po'). Se poi vi piace, i software statistici più comuni (inclusi quelli gratuiti) generalmente includono dei _pacchetti_ per le meta-analisi, e potete fare pratica da soli.
-
+{% include callout.html type="important" content="Le meta-analisi generalmente hanno abstract, introduzione, una sezione di _materiali e metodi_ in cui si definiscono i criteri di selezione degli articoli e i necessari approcci statistici, una sezione di risultati della ricerca bibliografica, una sezione dedicata ai risultati statistici, una sezione di discussione, e alla fine le conclusioni." %}
